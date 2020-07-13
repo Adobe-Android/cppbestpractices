@@ -4,7 +4,7 @@ Consistency is the most important aspect of style. The second most important asp
 
 C++ allows for arbitrary-length identifier names, so there's no reason to be terse when naming things. Use descriptive names, and be consistent in the style.
 
- * `CamelCase`
+ * `camelCase`
  * `snake_case`
 
 are common examples. *snake_case* has the advantage that it can also work with spell checkers, if desired.
